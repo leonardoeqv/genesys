@@ -1,0 +1,12 @@
+{
+  "urls": [
+    {
+      "url": "https://genesys.japps.site/v3/api-docs",
+      "name": "members"
+    },
+    {
+      "url": "https://genesys.japps.site/swagger-ui/index.html",
+      "name": "members"
+    }
+  ]
+}
